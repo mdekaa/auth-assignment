@@ -23,7 +23,9 @@ AUTH_SECRET = kdkbhjvahbdv09-sjdnb  ( any random )
 
 ### can also use :
 MONGO_URI='mongodb://127.0.0.1:27017/test' \
-AUTH_SECRET=klsgjcsr6ku987123kjdvlksadfadf0243
+AUTH_SECRET=klsgjcsr6ku987123kjdvlksadfadf0243 \
+
+(This will only work if you have mongodb correctly installed )
 
 
 ### Step-4: Run your development server
