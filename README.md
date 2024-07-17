@@ -14,7 +14,7 @@ npm install
 
 
 
-### Step-3: Create .env file in your root folder
+### Step-3: Create .env file in your root folder(auth-assignment folder)
 
 ### setup your instance from atlas + compass :
 
