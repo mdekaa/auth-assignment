@@ -25,6 +25,8 @@ AUTH_SECRET = kdkbhjvahbdv09-sjdnb  ( any random )
 MONGO_URI='mongodb://127.0.0.1:27017/test' \
 AUTH_SECRET=klsgjcsr6ku987123kjdvlksadfadf0243 \
 
+Then open this on mongodb compass
+
 (This will only work if you have mongodb correctly installed )
 
 
@@ -42,9 +44,10 @@ Command: npm run dev
 - For admin role:
   ```
   1. Register
-  2. go to your cluster document of that User
+  2. go to your cluster document of that User ( in mongodb compass )
   3. Change role from 'user' to 'admim'
-  4. Access to Admin Page
+  4. Logout and Login again using the same credentials
+  4. Access to Admin Page!!
   ```
 
 
