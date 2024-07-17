@@ -18,7 +18,7 @@ npm install
 
 ### setup your instance from atlas + compass :
 
-MONGO_URI = "mongodb+srv://username:password@cluster0.7l14exx.mongodb.net/" \
+MONGO_URI = "mongodb+srv://username:password@mongodb.net/" \
 AUTH_SECRET = kdkbhjvahbdv09-sjdnb  ( any random )
 
 ### can also use :
