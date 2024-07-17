@@ -12,7 +12,7 @@ Command: npm install
 
 ### Step-3: Create .env file in your root folder
 
-### setup your instance from atlas + compass or
+### setup your instance from atlas + compass :
 
 MONGO_URI = "mongodb+srv://username:password@cluster0.7l14exx.mongodb.net/" \
 AUTH_SECRET = kdkbhjvahbdv09-sjdnb  ( any random )
