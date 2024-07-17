@@ -10,7 +10,7 @@
 
 Command: \
 cd auth-assignment\
-npm install \
+npm install 
 
 
 
