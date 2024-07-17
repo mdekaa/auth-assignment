@@ -29,13 +29,16 @@ Command: npm run dev
 ### Step-5: User Roles
 - For user role:
   ```
-  Username: geek
-  Password: geek
+  1. simply register
+  2. Login
+  3. Access to Dashboard Page
   ```
 - For admin role:
   ```
-  Username: admin
-  Password: admin
+  1. Register
+  2. go to your cluster document of that User
+  3. Change role from 'user' to 'admim'
+  4. Access to Admin Page
   ```
 
 
