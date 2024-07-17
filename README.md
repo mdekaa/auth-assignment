@@ -7,7 +7,11 @@
 
 
 ### Step-2: Install dependencies
-Command: npm install
+
+Command: \
+cd auth-assignment\
+npm install \
+
 
 
 ### Step-3: Create .env file in your root folder
