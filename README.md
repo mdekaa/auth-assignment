@@ -12,7 +12,7 @@ Command: npm install
 
 ### Step-3: Create .env file in your root folder
 Use these variables for prebuilt data to work:
-MONGO_URI = "mongodb+srv://dekamaharnavchess@cluster0.7l14exx.mongodb.net/"
+MONGO_URI = "mongodb+srv://dekamaharnavchess:jZsBHQ5nULDJOxmw@cluster0.7l14exx.mongodb.net/"
 AUTH_SECRET = kdkbhjvahbdv09-sjdnb
 
 
