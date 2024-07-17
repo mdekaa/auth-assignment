@@ -1,21 +1,35 @@
-To Test this locally :
+# Assignment
 
-step-1 : clone the github repositary
-        command: git clone repo-dir
+## To Test this locally:
 
-
-step-2 : install dependencies
-        command: npm install
-
-step-3: create .env file in your root folder 
-        use these variable for prebuilt data to work
-        MONGO_URI = "mongodb+srv://dekamaharnavchess:jZsBHQ5nULDJOxmw@cluster0.7l14exx.mongodb.net/"
-        AUTH_SECRET = kdkbhjvahbdv09-sjdnb
+### Step-1: Clone the GitHub repository
+   Command: git clone repo-url
 
 
+### Step-2: Install dependencies
+Command: npm install
 
-step-4 :  run your development server
-        command:  npm run dev
 
-step-5: for user role : username=geek , password = geek
-        for admin role : username = admin , password = admin
+### Step-3: Create .env file in your root folder
+Use these variables for prebuilt data to work:
+MONGO_URI = "mongodb+srv://dekamaharnavchess@cluster0.7l14exx.mongodb.net/"
+AUTH_SECRET = kdkbhjvahbdv09-sjdnb
+
+
+### Step-4: Run your development server
+Command: npm run dev
+
+
+### Step-5: User Roles
+- For user role:
+  ```
+  Username: geek
+  Password: geek
+  ```
+- For admin role:
+  ```
+  Username: admin
+  Password: admin
+  ```
+
+
